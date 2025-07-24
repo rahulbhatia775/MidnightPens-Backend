@@ -42,7 +42,6 @@ INSTALLED_APPS = [
     'django.contrib.admin',
     'corsheaders',
     'rest_framework',
-    'corsheaders',
     'blogapp',
     'django.contrib.auth',
     'django.contrib.contenttypes',
